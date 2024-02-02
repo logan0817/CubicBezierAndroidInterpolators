@@ -16,7 +16,7 @@ animator.start()
 ```
 ### DEMO
 1. Demo.apk [点击下载](apk/app-debug.apk)
-2. Demo的Gif效果图 ![image](img/yisibl.github.io_cubic-bezier_.png)
+2. Demo的Gif效果图 ![demo_img.gif](img%2Fdemo_img.gif)
 
 ### 感谢
 http://yisibl.github.io/cubic-bezier/#.25,.1,.25,1
