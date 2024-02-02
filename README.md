@@ -1,0 +1,2 @@
+# CubicBezierAndroidInterpolators
+方便在Android中使用Interpolator一些常见的CubicBezier贝塞尔曲线动画效果。
