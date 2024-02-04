@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Intellij project files
+.idea
+*.iml
+*.ipr
+*.iws
+projectFilesBackup
